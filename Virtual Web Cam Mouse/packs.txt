@@ -1,0 +1,11 @@
+you need to download some packs....
+
+example:
+    cv2
+    mediapipe
+    pyautogui          
+            -etc.
+
+    written in main code file{mouse.py}
+
+    import mouse.py
