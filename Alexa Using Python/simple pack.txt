@@ -1,0 +1,9 @@
+plz... firts download all packs 
+
+example :
+
+	pyttsx3
+	pyaudio
+	speech recognition
+
+and many thinks written in code..
